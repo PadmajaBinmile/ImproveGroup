@@ -1,0 +1,10 @@
+D:\ImproveGroup\ImproveGroup\bin\Debug\ImproveGroup.dll
+D:\ImproveGroup\ImproveGroup\bin\Debug\ImproveGroup.pdb
+D:\ImproveGroup\ImproveGroup\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\ImproveGroup\ImproveGroup\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\ImproveGroup\ImproveGroup\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\ImproveGroup\ImproveGroup\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\ImproveGroup\ImproveGroup\obj\Debug\ImproveGroup.csproj.CoreCompileInputs.cache
+D:\ImproveGroup\ImproveGroup\obj\Debug\ImproveGroup.csproj.CopyComplete
+D:\ImproveGroup\ImproveGroup\obj\Debug\ImproveGroup.dll
+D:\ImproveGroup\ImproveGroup\obj\Debug\ImproveGroup.pdb
